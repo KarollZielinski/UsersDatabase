@@ -1,0 +1,49 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	font-family: sans-serif;
+	min-height: 100vh;
+	color: #555;
+}
+
+h2, h3{
+	text-align: center;
+	padding: 30px 0;
+	font-size: 32px;
+	line-height: 52px;
+	color: #999;
+	padding: 20px;
+}
+
+table{
+	width:  1000px;
+	margin: 50px auto;	
+}
+
+table th{
+	padding: 10px 0;
+	background-color: #f4f4f4;
+}
+
+table td{
+	padding: 10px;
+	border:  thin solid #d4d4d4;
+	width: 18%;
+	text-align: center;
+}
+
+
+
+.button{
+	font-size: 16px;
+	padding: 15px 32px;
+	font-size: 16px;
+	background-color: #ffecef;
+	border-radius:5px
+
+}
+
